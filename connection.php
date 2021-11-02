@@ -1,5 +1,5 @@
 <?php
-    $mysqli = new mysqli("mysql-mycloudweb.alwaysdata.net", "239074_grupo", "@0987654321bd", "mycloudweb_mapme");
+    $mysqli = new mysqli("sql10.freesqldatabase.com", "sql10448585", "QXQDRT7Rmg", "sql10448585");
     if (mysqli_connect_errno()) {
         printf("Connect failed: %s\n", mysqli_connect_error());
         exit();
