@@ -1,0 +1,10 @@
+
+Arthur-11/junho/2021=20:46-removi o codigo das fotos que nao vamos usar e criei um novo arquivo de css para colocar nosso codigo css para facilitar o uso e pesquisa caso precisarmos;
+
+Joao Paulo-16/06/2021 - mudei as dimençoes do menu lateral; coloquei a largura da barra superior em 100%; mudei a opção "contate-nos" para o menu lateral; adicionei imagens para a gente ter uma melhor noção de como está ficando o preview do site.
+
+João Paulo-18/06/2021 - Adicionei um efeito de zoom ao passar o mouse por cima das imagens.
+
+Arthur-22/06/2021 - alterei o conteudo do footer, adicionei o nome de alguns locais e inseri um local de contato com email e instagram usando icones.
+
+Arthur-23;06;2021 - adicionei um titulo a parte da pag principal(Sujestoes de locais ), mudei os botoes do acesso lateral para direcionar a locais especificos na pagina, adicionei um local onde vai realizar a pesquisa de locais. Adicionei tambem algus itens ao css para estilizar a parte de busca.
